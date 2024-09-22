@@ -1,0 +1,7 @@
+twilio
+flask
+websockets
+whisper
+webrtcvad
+openai
+gtts
